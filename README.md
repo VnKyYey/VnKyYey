@@ -1,3 +1,4 @@
 <div align="center"> 
-    https://lanyard-visualizer.netlify.app/user/287218738242125826
+    <a href="https://lanyard-visualizer.netlify.app/user/287218738242125826">
+    </a>
 </div>
